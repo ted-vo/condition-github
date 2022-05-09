@@ -1,9 +1,9 @@
 package main
 
 import (
-	githubCondition "github.com/go-semantic-release/condition-github/pkg/condition"
-	"github.com/go-semantic-release/semantic-release/v2/pkg/condition"
-	"github.com/go-semantic-release/semantic-release/v2/pkg/plugin"
+	githubCondition "github.com/ted-vo/condition-github/pkg/condition"
+	"github.com/ted-vo/semantic-release/v3/pkg/condition"
+	"github.com/ted-vo/semantic-release/v3/pkg/plugin"
 )
 
 func main() {
